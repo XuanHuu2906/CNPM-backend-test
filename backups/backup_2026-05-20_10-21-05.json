@@ -1,0 +1,1094 @@
+{
+  "users": [
+    {
+      "id": "cmpdlgmz20000mdsarsnndkwj",
+      "email": "admin@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Trần Văn Quản Trị",
+      "phoneNumber": "0901234567",
+      "avatar": null,
+      "role": "ADMIN",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:17.006Z",
+      "updatedAt": "2026-05-20T05:01:17.006Z"
+    },
+    {
+      "id": "cmpdlgndl0002mdsajghsxqwf",
+      "email": "pdt@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Nguyễn Đào Tạo",
+      "phoneNumber": "0907654321",
+      "avatar": null,
+      "role": "ACADEMIC_DEPT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:17.530Z",
+      "updatedAt": "2026-05-20T05:01:17.530Z"
+    },
+    {
+      "id": "cmpdlgnrt0004mdsaimp76mt8",
+      "email": "gv.cnpm1@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "PGS.TS Nguyễn Văn A",
+      "phoneNumber": "0912233445",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:18.042Z",
+      "updatedAt": "2026-05-20T05:01:18.042Z"
+    },
+    {
+      "id": "cmpdlgo5o0006mdsa0zq59quj",
+      "email": "gv.cnpm2@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "ThS Lê Thị B",
+      "phoneNumber": "0913344556",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:18.541Z",
+      "updatedAt": "2026-05-20T05:01:18.541Z"
+    },
+    {
+      "id": "cmpdlgojk0008mdsa7nkf2d0m",
+      "email": "gv.cnpm3@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "TS Trần Văn C",
+      "phoneNumber": "0914455667",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:19.040Z",
+      "updatedAt": "2026-05-20T05:01:19.040Z"
+    },
+    {
+      "id": "cmpdlgoxe000amdsa64ieetb6",
+      "email": "gv.httt1@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "ThS Nguyễn Thị D",
+      "phoneNumber": "0915566778",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:19.538Z",
+      "updatedAt": "2026-05-20T05:01:19.538Z"
+    },
+    {
+      "id": "cmpdlgpbg000cmdsal3rglnxl",
+      "email": "gv.httt2@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "TS Phạm Văn E",
+      "phoneNumber": "0916677889",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:20.044Z",
+      "updatedAt": "2026-05-20T05:01:20.044Z"
+    },
+    {
+      "id": "cmpdlgppd000emdsadd455p9b",
+      "email": "gv.ktmt1@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "PGS.TS Hoàng Văn F",
+      "phoneNumber": "0917788990",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:20.545Z",
+      "updatedAt": "2026-05-20T05:01:20.545Z"
+    },
+    {
+      "id": "cmpdlgq3p000gmdsaw1abmn9m",
+      "email": "gv.ktmt2@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "ThS Vũ Thị G",
+      "phoneNumber": "0918899001",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:21.061Z",
+      "updatedAt": "2026-05-20T05:01:21.061Z"
+    },
+    {
+      "id": "cmpdlgqhr000imdsasgwrjc6s",
+      "email": "gv.ktmt3@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "TS Đỗ Văn H",
+      "phoneNumber": "0919900112",
+      "avatar": null,
+      "role": "TEACHER",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:21.567Z",
+      "updatedAt": "2026-05-20T05:01:21.567Z"
+    },
+    {
+      "id": "cmpdlgx9f001lmdsa2nbonp4q",
+      "email": "sv1@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Nguyễn Văn Nam",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:30.339Z",
+      "updatedAt": "2026-05-20T05:01:30.339Z"
+    },
+    {
+      "id": "cmpdlgxx6001omdsa6iywthti",
+      "email": "sv2@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Trần Thị Mai",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:31.194Z",
+      "updatedAt": "2026-05-20T05:01:31.194Z"
+    },
+    {
+      "id": "cmpdlgyis001rmdsaf4pw49ok",
+      "email": "sv3@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Phan Thanh Bình",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:31.972Z",
+      "updatedAt": "2026-05-20T05:01:31.972Z"
+    },
+    {
+      "id": "cmpdlgz4p001umdsa6dbqk5g6",
+      "email": "sv4@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Lê Hoàng Yến",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:32.762Z",
+      "updatedAt": "2026-05-20T05:01:32.762Z"
+    },
+    {
+      "id": "cmpdlgzq6001xmdsacl422wtv",
+      "email": "sv5@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Vũ Minh Triết",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:33.534Z",
+      "updatedAt": "2026-05-20T05:01:33.534Z"
+    },
+    {
+      "id": "cmpdlh0bw0020mdsawrf08267",
+      "email": "sv6@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Ngô Bích Vân",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:34.316Z",
+      "updatedAt": "2026-05-20T05:01:34.316Z"
+    },
+    {
+      "id": "cmpdlh0xp0023mdsa5u6ls6b5",
+      "email": "sv7@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Đặng Anh Tuấn",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:35.101Z",
+      "updatedAt": "2026-05-20T05:01:35.101Z"
+    },
+    {
+      "id": "cmpdlh1jk0026mdsaaddkfa7u",
+      "email": "sv8@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Phạm Minh Ngọc",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:35.888Z",
+      "updatedAt": "2026-05-20T05:01:35.888Z"
+    },
+    {
+      "id": "cmpdlh25l0029mdsawf4me6bu",
+      "email": "sv9@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Đỗ Minh Khang",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:36.681Z",
+      "updatedAt": "2026-05-20T05:01:36.681Z"
+    },
+    {
+      "id": "cmpdlh2rh002cmdsau6un2i3b",
+      "email": "sv10@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Nguyễn Thanh Lâm",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:37.469Z",
+      "updatedAt": "2026-05-20T05:01:37.469Z"
+    },
+    {
+      "id": "cmpdlh3ga002fmdsag7pwvhyv",
+      "email": "sv11@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Trịnh Xuân Bách",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:38.363Z",
+      "updatedAt": "2026-05-20T05:01:38.363Z"
+    },
+    {
+      "id": "cmpdlh422002imdsa4qfka0ml",
+      "email": "sv12@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Bùi Hữu Đạt",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:39.147Z",
+      "updatedAt": "2026-05-20T05:01:39.147Z"
+    },
+    {
+      "id": "cmpdlh4nn002lmdsasf1rda42",
+      "email": "sv13@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Đoàn Thu Hà",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:39.923Z",
+      "updatedAt": "2026-05-20T05:01:39.923Z"
+    },
+    {
+      "id": "cmpdlh5vl002rmdsak2ewhrbh",
+      "email": "sv15@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Vương Quốc Bảo",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:41.506Z",
+      "updatedAt": "2026-05-20T06:34:17.112Z"
+    },
+    {
+      "id": "cmpdlh59o002omdsa87v1sejj",
+      "email": "sv14@school.edu.vn",
+      "password": "$2a$10$EjYK7s7vejGF0/YX4GBEquI5UQ1wHWoW5rD7gPiQmHm9xDmY/sedO",
+      "fullName": "Lâm Quang Vinh",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "STUDENT",
+      "isActive": true,
+      "createdAt": "2026-05-20T05:01:40.716Z",
+      "updatedAt": "2026-05-20T06:34:17.869Z"
+    },
+    {
+      "id": "cmpdp86q9000bxjolb38uqf76",
+      "email": "an.nv.sv@gmail.com",
+      "password": "$2a$10$tc1oVMd0HmvADRv6b/qsouJPXS/YTZJTFcXg3S4.iMynQM04BN.om",
+      "fullName": "Nguyễn Văn An",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "SINH_VIEN",
+      "isActive": true,
+      "createdAt": "2026-05-20T06:46:41.167Z",
+      "updatedAt": "2026-05-20T06:46:41.167Z"
+    },
+    {
+      "id": "cmpdp877y000dxjolqp4xezku",
+      "email": "binh.tt.sv@gmail.com",
+      "password": "$2a$10$rZf1Sitabc6pEqY90.wl0edwMhUF.MnDbwOi6pUJfhp7sYgS0xLWi",
+      "fullName": "Trần Thị Bình",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "SINH_VIEN",
+      "isActive": true,
+      "createdAt": "2026-05-20T06:46:41.806Z",
+      "updatedAt": "2026-05-20T06:46:41.806Z"
+    },
+    {
+      "id": "cmpdp87ow000fxjoldvp4zblq",
+      "email": "cuong.ph.sv@gmail.com",
+      "password": "$2a$10$SwCqA0sFQ47aBxBcXaubpecAMCvDl3cIwVLQ9fQXTQRQ0c7xRL2zi",
+      "fullName": "Phạm Hoàng Cường",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "SINH_VIEN",
+      "isActive": true,
+      "createdAt": "2026-05-20T06:46:42.416Z",
+      "updatedAt": "2026-05-20T06:46:42.416Z"
+    },
+    {
+      "id": "cmpdp885y000hxjolguiol5q1",
+      "email": "dat.lm.sv@gmail.com",
+      "password": "$2a$10$/S9xTSG8IEiDi/vLqvXRCuikx2UmWnM2rUnDhaPNdgK7mLoszPrrW",
+      "fullName": "Lê Minh Đạt",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "SINH_VIEN",
+      "isActive": true,
+      "createdAt": "2026-05-20T06:46:43.030Z",
+      "updatedAt": "2026-05-20T06:46:43.030Z"
+    },
+    {
+      "id": "cmpdp88o2000jxjol9sugc01m",
+      "email": "hong.vt.sv@gmail.com",
+      "password": "$2a$10$..JKJUXKKJV2.Eh3ToB4rujja51FNv1uiR5BLNDuWI9.sRH.XG0mK",
+      "fullName": "Vũ Thị Hồng",
+      "phoneNumber": null,
+      "avatar": null,
+      "role": "SINH_VIEN",
+      "isActive": true,
+      "createdAt": "2026-05-20T06:46:43.682Z",
+      "updatedAt": "2026-05-20T06:46:43.682Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "cmpdlgmz40001mdsamksjja6q",
+      "employeeCode": "ADM001",
+      "userId": "cmpdlgmz20000mdsarsnndkwj"
+    }
+  ],
+  "academicDepts": [
+    {
+      "id": "cmpdlgndl0003mdsamdxysjt6",
+      "employeeCode": "PDT001",
+      "userId": "cmpdlgndl0002mdsajghsxqwf"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "cmpdlgnru0005mdsaq3oh8uw2",
+      "teacherCode": "GV_CNPM01",
+      "title": "PGS.TS",
+      "userId": "cmpdlgnrt0004mdsaimp76mt8"
+    },
+    {
+      "id": "cmpdlgo5o0007mdsaacx41kke",
+      "teacherCode": "GV_CNPM02",
+      "title": "ThS",
+      "userId": "cmpdlgo5o0006mdsa0zq59quj"
+    },
+    {
+      "id": "cmpdlgojk0009mdsato8rwly0",
+      "teacherCode": "GV_CNPM03",
+      "title": "TS",
+      "userId": "cmpdlgojk0008mdsa7nkf2d0m"
+    },
+    {
+      "id": "cmpdlgoxe000bmdsaxi6qolhi",
+      "teacherCode": "GV_HTTT01",
+      "title": "ThS",
+      "userId": "cmpdlgoxe000amdsa64ieetb6"
+    },
+    {
+      "id": "cmpdlgpbg000dmdsa67j480f3",
+      "teacherCode": "GV_HTTT02",
+      "title": "TS",
+      "userId": "cmpdlgpbg000cmdsal3rglnxl"
+    },
+    {
+      "id": "cmpdlgppd000fmdsah2fjf737",
+      "teacherCode": "GV_KTMT01",
+      "title": "PGS.TS",
+      "userId": "cmpdlgppd000emdsadd455p9b"
+    },
+    {
+      "id": "cmpdlgq3p000hmdsadja1o7qq",
+      "teacherCode": "GV_KTMT02",
+      "title": "ThS",
+      "userId": "cmpdlgq3p000gmdsaw1abmn9m"
+    },
+    {
+      "id": "cmpdlgqhr000jmdsabkkabwk9",
+      "teacherCode": "GV_KTMT03",
+      "title": "TS",
+      "userId": "cmpdlgqhr000imdsasgwrjc6s"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cmpdlgt51000mmdsa03vfkbbv",
+      "subjectCode": "SE301",
+      "name": "Thiết kế phần mềm hướng đối tượng"
+    },
+    {
+      "id": "cmpdlgtcw000nmdsa2zhq0tpo",
+      "subjectCode": "SE302",
+      "name": "Đảm bảo chất lượng phần mềm"
+    },
+    {
+      "id": "cmpdlgtkq000omdsaovblm6ld",
+      "subjectCode": "SE303",
+      "name": "Nhập môn Công nghệ phần mềm"
+    },
+    {
+      "id": "cmpdlgtsn000pmdsa5jpjuuqz",
+      "subjectCode": "IS201",
+      "name": "Cơ sở dữ liệu nâng cao"
+    },
+    {
+      "id": "cmpdlgu0b000qmdsau6jhci98",
+      "subjectCode": "IS202",
+      "name": "Phân tích thiết kế hệ thống"
+    },
+    {
+      "id": "cmpdlgu7y000rmdsaj3guut7l",
+      "subjectCode": "CS101",
+      "name": "Kiến trúc máy tính"
+    },
+    {
+      "id": "cmpdlgufp000smdsa9wkgfqa4",
+      "subjectCode": "CS102",
+      "name": "Hệ điều hành"
+    }
+  ],
+  "academicTerms": [
+    {
+      "id": "cmpdlgspe000kmdsaauprtbx3",
+      "name": "HK1-2025-2026",
+      "startDate": "2025-09-01T00:00:00.000Z",
+      "endDate": "2026-01-15T00:00:00.000Z",
+      "isLocked": true,
+      "createdAt": "2026-05-20T05:01:24.435Z"
+    },
+    {
+      "id": "cmpdlgsxd000lmdsad75nb8uo",
+      "name": "HK2-2025-2026",
+      "startDate": "2026-02-01T00:00:00.000Z",
+      "endDate": "2026-06-30T00:00:00.000Z",
+      "isLocked": false,
+      "createdAt": "2026-05-20T05:01:24.722Z"
+    }
+  ],
+  "classes": [
+    {
+      "id": "cmpdlgunn000umdsatcu4sw88",
+      "classCode": "SE301_L01",
+      "subjectId": "cmpdlgt51000mmdsa03vfkbbv",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlguve000wmdsas5rcbjac",
+      "classCode": "SE301_L02",
+      "subjectId": "cmpdlgt51000mmdsa03vfkbbv",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgv3d000ymdsa1fxvtxzj",
+      "classCode": "SE302_L01",
+      "subjectId": "cmpdlgtcw000nmdsa2zhq0tpo",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgvb90010mdsa8fvwms93",
+      "classCode": "SE303_L01",
+      "subjectId": "cmpdlgtkq000omdsaovblm6ld",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgvj60012mdsavbbxkw8j",
+      "classCode": "IS201_L01",
+      "subjectId": "cmpdlgtsn000pmdsa5jpjuuqz",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgvqx0014mdsahaexhgo5",
+      "classCode": "IS202_L01",
+      "subjectId": "cmpdlgu0b000qmdsau6jhci98",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgvyl0016mdsafkeynpse",
+      "classCode": "CS101_L01",
+      "subjectId": "cmpdlgu7y000rmdsaj3guut7l",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgw690018mdsa8s6i7qrq",
+      "classCode": "CS101_L02",
+      "subjectId": "cmpdlgu7y000rmdsaj3guut7l",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgwe0001amdsakc24nus0",
+      "classCode": "CS102_L01",
+      "subjectId": "cmpdlgufp000smdsa9wkgfqa4",
+      "termId": "cmpdlgsxd000lmdsad75nb8uo"
+    },
+    {
+      "id": "cmpdlgwlr001cmdsa7d7lobfl",
+      "classCode": "SE301_L03",
+      "subjectId": "cmpdlgt51000mmdsa03vfkbbv",
+      "termId": "cmpdlgspe000kmdsaauprtbx3"
+    },
+    {
+      "id": "cmpdlgwto001emdsak6bl1bua",
+      "classCode": "IS201_L02",
+      "subjectId": "cmpdlgtsn000pmdsa5jpjuuqz",
+      "termId": "cmpdlgspe000kmdsaauprtbx3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "cmpdlh6hb002vmdsazw95u2vr",
+      "name": "Nhom 1",
+      "topicName": "Xây dựng ứng dụng quản lý rạp chiếu phim",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "createdAt": "2026-05-20T05:01:42.287Z"
+    },
+    {
+      "id": "cmpdlh6p3002xmdsann2pduyq",
+      "name": "Nhom 2",
+      "topicName": "Hệ thống đặt xe công nghệ trực tuyến",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "createdAt": "2026-05-20T05:01:42.567Z"
+    },
+    {
+      "id": "cmpdlh6wu002zmdsablsjj71h",
+      "name": "Nhom 3",
+      "topicName": "Website thương mại điện tử nông sản",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "createdAt": "2026-05-20T05:01:42.846Z"
+    },
+    {
+      "id": "cmpdlh74t0031mdsahag5w144",
+      "name": "Nhom 1",
+      "topicName": "Phân tích hành vi mua sắm khách hàng",
+      "classId": "cmpdlgvj60012mdsavbbxkw8j",
+      "createdAt": "2026-05-20T05:01:43.133Z"
+    }
+  ],
+  "students": [
+    {
+      "id": "cmpdlh0xp0025mdsajgbb75dw",
+      "studentCode": "22010157",
+      "classId": "cmpdlguve000wmdsas5rcbjac",
+      "userId": "cmpdlh0xp0023mdsa5u6ls6b5",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlh1jl0028mdsawjhwq4kf",
+      "studentCode": "22010158",
+      "classId": "cmpdlguve000wmdsas5rcbjac",
+      "userId": "cmpdlh1jk0026mdsaaddkfa7u",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlh3ga002hmdsasliolfzs",
+      "studentCode": "22010161",
+      "classId": "cmpdlgvyl0016mdsafkeynpse",
+      "userId": "cmpdlh3ga002fmdsag7pwvhyv",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlh423002kmdsauegehmws",
+      "studentCode": "22010162",
+      "classId": "cmpdlgvyl0016mdsafkeynpse",
+      "userId": "cmpdlh422002imdsa4qfka0ml",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlh4nn002nmdsadimrhwqc",
+      "studentCode": "22010163",
+      "classId": "cmpdlgvyl0016mdsafkeynpse",
+      "userId": "cmpdlh4nn002lmdsasf1rda42",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlh59o002qmdsa1ec9pbyt",
+      "studentCode": "22010164",
+      "classId": "cmpdlgvyl0016mdsafkeynpse",
+      "userId": "cmpdlh59o002omdsa87v1sejj",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlh5vm002tmdsak0djy8aj",
+      "studentCode": "22010165",
+      "classId": "cmpdlgvyl0016mdsafkeynpse",
+      "userId": "cmpdlh5vl002rmdsak2ewhrbh",
+      "groupId": null
+    },
+    {
+      "id": "cmpdlgx9f001nmdsanpyngw5a",
+      "studentCode": "22010151",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "userId": "cmpdlgx9f001lmdsa2nbonp4q",
+      "groupId": "cmpdlh6hb002vmdsazw95u2vr"
+    },
+    {
+      "id": "cmpdlgxx6001qmdsani68svc4",
+      "studentCode": "22010152",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "userId": "cmpdlgxx6001omdsa6iywthti",
+      "groupId": "cmpdlh6hb002vmdsazw95u2vr"
+    },
+    {
+      "id": "cmpdlgyis001tmdsajy7heiyp",
+      "studentCode": "22010153",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "userId": "cmpdlgyis001rmdsaf4pw49ok",
+      "groupId": "cmpdlh6p3002xmdsann2pduyq"
+    },
+    {
+      "id": "cmpdlgz4p001wmdsafmcmiryh",
+      "studentCode": "22010154",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "userId": "cmpdlgz4p001umdsa6dbqk5g6",
+      "groupId": "cmpdlh6p3002xmdsann2pduyq"
+    },
+    {
+      "id": "cmpdlgzq6001zmdsacqri89p1",
+      "studentCode": "22010155",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "userId": "cmpdlgzq6001xmdsacl422wtv",
+      "groupId": "cmpdlh6wu002zmdsablsjj71h"
+    },
+    {
+      "id": "cmpdlh0bw0022mdsafykz7zvp",
+      "studentCode": "22010156",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "userId": "cmpdlh0bw0020mdsawrf08267",
+      "groupId": "cmpdlh6wu002zmdsablsjj71h"
+    },
+    {
+      "id": "cmpdlh25l002bmdsa7v9t5ljd",
+      "studentCode": "22010159",
+      "classId": "cmpdlgvj60012mdsavbbxkw8j",
+      "userId": "cmpdlh25l0029mdsawf4me6bu",
+      "groupId": "cmpdlh74t0031mdsahag5w144"
+    },
+    {
+      "id": "cmpdlh2rh002emdsa8wyc980n",
+      "studentCode": "22010160",
+      "classId": "cmpdlgvj60012mdsavbbxkw8j",
+      "userId": "cmpdlh2rh002cmdsau6un2i3b",
+      "groupId": "cmpdlh74t0031mdsahag5w144"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "cmpdlgx1g001fmdsacalc95kj",
+      "classId": "cmpdlgunn000umdsatcu4sw88",
+      "teacherId": "cmpdlgnru0005mdsaq3oh8uw2"
+    },
+    {
+      "id": "cmpdlgx1g001gmdsaptjggse8",
+      "classId": "cmpdlguve000wmdsas5rcbjac",
+      "teacherId": "cmpdlgo5o0007mdsaacx41kke"
+    },
+    {
+      "id": "cmpdlgx1g001hmdsafllf0ayl",
+      "classId": "cmpdlgvj60012mdsavbbxkw8j",
+      "teacherId": "cmpdlgoxe000bmdsaxi6qolhi"
+    },
+    {
+      "id": "cmpdlgx1g001imdsa26nqdu5d",
+      "classId": "cmpdlgvyl0016mdsafkeynpse",
+      "teacherId": "cmpdlgppd000fmdsah2fjf737"
+    },
+    {
+      "id": "cmpdlgx1g001jmdsapargn49g",
+      "classId": "cmpdlgwlr001cmdsa7d7lobfl",
+      "teacherId": "cmpdlgnru0005mdsaq3oh8uw2"
+    },
+    {
+      "id": "cmpdlgx1g001kmdsasf55o2vx",
+      "classId": "cmpdlgwto001emdsak6bl1bua",
+      "teacherId": "cmpdlgpbg000dmdsa67j480f3"
+    },
+    {
+      "id": "cmpdm7r250001xjolsl9fp3qp",
+      "classId": "cmpdlgw690018mdsa8s6i7qrq",
+      "teacherId": "cmpdlgqhr000jmdsabkkabwk9"
+    },
+    {
+      "id": "cmpdmcd8y0003xjolrmi9gsah",
+      "classId": "cmpdlgwe0001amdsakc24nus0",
+      "teacherId": "cmpdlgq3p000hmdsadja1o7qq"
+    },
+    {
+      "id": "cmpdmcf2z0005xjoldunrws9n",
+      "classId": "cmpdlgvqx0014mdsahaexhgo5",
+      "teacherId": "cmpdlgpbg000dmdsa67j480f3"
+    },
+    {
+      "id": "cmpdmcgv10007xjolr4j4olq2",
+      "classId": "cmpdlgv3d000ymdsa1fxvtxzj",
+      "teacherId": "cmpdlgojk0009mdsato8rwly0"
+    },
+    {
+      "id": "cmpdmcikx0009xjol0hqvuxdc",
+      "classId": "cmpdlgvb90010mdsa8fvwms93",
+      "teacherId": "cmpdlgojk0009mdsato8rwly0"
+    }
+  ],
+  "rubrics": [
+    {
+      "id": "cmpdlh95b0033mdsa3ccuxl5r",
+      "title": "Rubric Báo Cáo Đề Tài Cuối Kỳ - CNPM",
+      "description": "Tiêu chí đánh giá chung đề tài môn Thiết kế phần mềm hướng đối tượng",
+      "teacherId": "cmpdlgnru0005mdsaq3oh8uw2",
+      "createdAt": "2026-05-20T05:01:45.744Z"
+    },
+    {
+      "id": "cmpdlh9jg0038mdsavtlzgqeh",
+      "title": "Rubric Đồ Án Cơ Sở Dữ Liệu - HTTT",
+      "description": "Đánh giá đồ án môn Cơ sở dữ liệu nâng cao",
+      "teacherId": "cmpdlgoxe000bmdsaxi6qolhi",
+      "createdAt": "2026-05-20T05:01:46.252Z"
+    },
+    {
+      "id": "cmpdlh9x9003dmdsakvil8i8s",
+      "title": "Rubric Thực Hành Kiến Trúc Máy Tính - KTMT",
+      "description": "Chấm báo cáo thực hành KTMT",
+      "teacherId": "cmpdlgppd000fmdsah2fjf737",
+      "createdAt": "2026-05-20T05:01:46.749Z"
+    }
+  ],
+  "criteria": [
+    {
+      "id": "cmpdlh95b0034mdsazcdiw8xj",
+      "rubricId": "cmpdlh95b0033mdsa3ccuxl5r",
+      "name": "Nội dung kỹ thuật",
+      "description": "Kiến trúc phần mềm, mẫu thiết kế áp dụng",
+      "maxScore": "10",
+      "weight": "40",
+      "createdAt": "2026-05-20T05:01:45.744Z"
+    },
+    {
+      "id": "cmpdlh95b0035mdsas0mhoqtc",
+      "rubricId": "cmpdlh95b0033mdsa3ccuxl5r",
+      "name": "Bố cục tài liệu",
+      "description": "Trình bày tài liệu đặc tả, sơ đồ UML",
+      "maxScore": "10",
+      "weight": "30",
+      "createdAt": "2026-05-20T05:01:45.744Z"
+    },
+    {
+      "id": "cmpdlh95b0036mdsaguu5lyb1",
+      "rubricId": "cmpdlh95b0033mdsa3ccuxl5r",
+      "name": "Thuyết trình & Hỏi đáp",
+      "description": "Kỹ năng thuyết trình nhóm và giải trình câu hỏi",
+      "maxScore": "10",
+      "weight": "30",
+      "createdAt": "2026-05-20T05:01:45.744Z"
+    },
+    {
+      "id": "cmpdlh9jg0039mdsaqsg66vwu",
+      "rubricId": "cmpdlh9jg0038mdsavtlzgqeh",
+      "name": "Thiết kế E-R và Lược đồ",
+      "description": "Mức độ tối ưu hóa lược đồ thực thể",
+      "maxScore": "10",
+      "weight": "40",
+      "createdAt": "2026-05-20T05:01:46.252Z"
+    },
+    {
+      "id": "cmpdlh9jg003amdsao9a0th5v",
+      "rubricId": "cmpdlh9jg0038mdsavtlzgqeh",
+      "name": "Truy vấn và Tối ưu hóa SQL",
+      "description": "Viết Trigger, Stored Procedure, Index",
+      "maxScore": "10",
+      "weight": "45",
+      "createdAt": "2026-05-20T05:01:46.252Z"
+    },
+    {
+      "id": "cmpdlh9jg003bmdsavjc36esy",
+      "rubricId": "cmpdlh9jg0038mdsavtlzgqeh",
+      "name": "Báo cáo tổng hợp",
+      "description": "Quy chuẩn tài liệu phân tích hệ thống",
+      "maxScore": "10",
+      "weight": "15",
+      "createdAt": "2026-05-20T05:01:46.252Z"
+    },
+    {
+      "id": "cmpdlh9x9003emdsam1znjx6g",
+      "rubricId": "cmpdlh9x9003dmdsakvil8i8s",
+      "name": "Bài thực hành Assembly",
+      "description": "Mã assembly MIPS chạy đúng yêu cầu",
+      "maxScore": "10",
+      "weight": "50",
+      "createdAt": "2026-05-20T05:01:46.749Z"
+    },
+    {
+      "id": "cmpdlh9x9003fmdsaxxaxji0c",
+      "rubricId": "cmpdlh9x9003dmdsakvil8i8s",
+      "name": "Thiết kế mạch Logisim",
+      "description": "Mạch logic hoạt động trơn tru",
+      "maxScore": "10",
+      "weight": "35",
+      "createdAt": "2026-05-20T05:01:46.749Z"
+    },
+    {
+      "id": "cmpdlh9x9003gmdsa2l63vylh",
+      "rubricId": "cmpdlh9x9003dmdsakvil8i8s",
+      "name": "Báo cáo lý thuyết",
+      "description": "Hiểu bài và giải thích mạch rõ ràng",
+      "maxScore": "10",
+      "weight": "15",
+      "createdAt": "2026-05-20T05:01:46.749Z"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "cmpdlhaym003imdsabg2ekjj7",
+      "studentId": null,
+      "groupId": "cmpdlh6hb002vmdsazw95u2vr",
+      "filePath": "/uploads/reports/se301_l01_group1_final.pdf",
+      "attachments": "/uploads/reports/se301_l01_group1_src.zip",
+      "status": "HOAN_THANH",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-15T05:01:48.093Z",
+      "createdAt": "2026-05-20T05:01:48.094Z",
+      "updatedAt": "2026-05-20T05:01:48.094Z"
+    },
+    {
+      "id": "cmpdlhbek003mmdsark84d074",
+      "studentId": null,
+      "groupId": "cmpdlh6p3002xmdsann2pduyq",
+      "filePath": "/uploads/reports/se301_l01_group2_draft.pdf",
+      "attachments": "/uploads/reports/se301_l01_group2_demo.mp4",
+      "status": "DA_CHAM",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-17T05:01:48.666Z",
+      "createdAt": "2026-05-20T05:01:48.668Z",
+      "updatedAt": "2026-05-20T05:01:48.668Z"
+    },
+    {
+      "id": "cmpdlhbua003qmdsaz0yw6nab",
+      "studentId": null,
+      "groupId": "cmpdlh6wu002zmdsablsjj71h",
+      "filePath": "/uploads/reports/se301_l01_group3_v2.pdf",
+      "attachments": null,
+      "status": "DANG_CHAM",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-18T05:01:49.233Z",
+      "createdAt": "2026-05-20T05:01:49.234Z",
+      "updatedAt": "2026-05-20T05:01:49.234Z"
+    },
+    {
+      "id": "cmpdlhc20003smdsa0wjb53bi",
+      "studentId": "cmpdlh0xp0025mdsajgbb75dw",
+      "groupId": null,
+      "filePath": "/uploads/reports/se301_l02_sv7.pdf",
+      "attachments": null,
+      "status": "YEU_CAU_SUA",
+      "version": 1,
+      "editRequestNote": "Cần vẽ lại sơ đồ tuần tự (Sequence Diagram) cho đúng chuẩn và bổ sung kiểm thử biên.",
+      "rejectReason": null,
+      "submittedAt": "2026-05-16T05:01:49.510Z",
+      "createdAt": "2026-05-20T05:01:49.512Z",
+      "updatedAt": "2026-05-20T05:01:49.512Z"
+    },
+    {
+      "id": "cmpdlhc9o003umdsatlzruwlv",
+      "studentId": "cmpdlh1jl0028mdsawjhwq4kf",
+      "groupId": null,
+      "filePath": "/uploads/reports/se301_l02_sv8.pdf",
+      "attachments": null,
+      "status": "DA_NOP",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-19T05:01:49.787Z",
+      "createdAt": "2026-05-20T05:01:49.788Z",
+      "updatedAt": "2026-05-20T05:01:49.788Z"
+    },
+    {
+      "id": "cmpdlhchg003wmdsa5zxrv90b",
+      "studentId": null,
+      "groupId": "cmpdlh74t0031mdsahag5w144",
+      "filePath": "/uploads/reports/is201_l01_group4.pdf",
+      "attachments": null,
+      "status": "TU_CHOI",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": "Báo cáo bị phát hiện sao chép tài liệu khóa trước trên 50%.",
+      "submittedAt": "2026-05-14T05:01:50.067Z",
+      "createdAt": "2026-05-20T05:01:50.068Z",
+      "updatedAt": "2026-05-20T05:01:50.068Z"
+    },
+    {
+      "id": "cmpdlhcp2003ymdsacop88qd4",
+      "studentId": "cmpdlh3ga002hmdsasliolfzs",
+      "groupId": null,
+      "filePath": "/uploads/reports/cs101_l01_sv11.pdf",
+      "attachments": null,
+      "status": "DA_NOP",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-19T05:01:50.341Z",
+      "createdAt": "2026-05-20T05:01:50.342Z",
+      "updatedAt": "2026-05-20T05:01:50.342Z"
+    },
+    {
+      "id": "cmpdlhcwq0040mdsawf3buuah",
+      "studentId": "cmpdlh4nn002nmdsadimrhwqc",
+      "groupId": null,
+      "filePath": "/uploads/reports/cs101_l01_sv13.pdf",
+      "attachments": null,
+      "status": "HOAN_THANH",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-13T05:01:50.617Z",
+      "createdAt": "2026-05-20T05:01:50.618Z",
+      "updatedAt": "2026-05-20T05:01:50.618Z"
+    },
+    {
+      "id": "cmpdlhdc20044mdsa7cj8j4zj",
+      "studentId": "cmpdlh59o002qmdsa1ec9pbyt",
+      "groupId": null,
+      "filePath": "",
+      "attachments": null,
+      "status": "CHUA_NOP",
+      "version": 1,
+      "editRequestNote": null,
+      "rejectReason": null,
+      "submittedAt": "2026-05-20T05:01:51.170Z",
+      "createdAt": "2026-05-20T05:01:51.170Z",
+      "updatedAt": "2026-05-20T05:01:51.170Z"
+    }
+  ],
+  "submissionLogs": [],
+  "grades": [
+    {
+      "id": "cmpdlhb6g003kmdsabexdir03",
+      "submissionId": "cmpdlhaym003imdsabg2ekjj7",
+      "rubricId": "cmpdlh95b0033mdsa3ccuxl5r",
+      "teacherId": "cmpdlgnru0005mdsaq3oh8uw2",
+      "detailedScores": "[{\"criteriaId\":\"cmpdlh95b0034mdsazcdiw8xj\",\"score\":8.5},{\"criteriaId\":\"cmpdlh95b0035mdsas0mhoqtc\",\"score\":9},{\"criteriaId\":\"cmpdlh95b0036mdsaguu5lyb1\",\"score\":8}]",
+      "finalScore": "8.5",
+      "feedback": "Báo cáo trình bày xuất sắc, đáp ứng đầy đủ yêu cầu hệ thống đề ra, thuyết trình trôi chảy.",
+      "isApproved": true,
+      "approvedById": "cmpdlgndl0002mdsajghsxqwf",
+      "version": 1,
+      "createdAt": "2026-05-20T05:01:48.376Z",
+      "updatedAt": "2026-05-20T05:01:48.376Z"
+    },
+    {
+      "id": "cmpdlhbm6003omdsabzr854k3",
+      "submissionId": "cmpdlhbek003mmdsark84d074",
+      "rubricId": "cmpdlh95b0033mdsa3ccuxl5r",
+      "teacherId": "cmpdlgnru0005mdsaq3oh8uw2",
+      "detailedScores": "[{\"criteriaId\":\"cmpdlh95b0034mdsazcdiw8xj\",\"score\":7},{\"criteriaId\":\"cmpdlh95b0035mdsas0mhoqtc\",\"score\":7},{\"criteriaId\":\"cmpdlh95b0036mdsaguu5lyb1\",\"score\":7}]",
+      "finalScore": "7",
+      "feedback": "Bản vẽ thiết kế còn một số sai sót, cần chú ý chuẩn hóa các sơ đồ UML.",
+      "isApproved": false,
+      "approvedById": null,
+      "version": 1,
+      "createdAt": "2026-05-20T05:01:48.942Z",
+      "updatedAt": "2026-05-20T05:01:48.942Z"
+    },
+    {
+      "id": "cmpdlhd4b0042mdsavp8d1wzv",
+      "submissionId": "cmpdlhcwq0040mdsawf3buuah",
+      "rubricId": "cmpdlh9x9003dmdsakvil8i8s",
+      "teacherId": "cmpdlgppd000fmdsah2fjf737",
+      "detailedScores": "[{\"criteriaId\":\"cmpdlh9x9003emdsam1znjx6g\",\"score\":9.5},{\"criteriaId\":\"cmpdlh9x9003fmdsaxxaxji0c\",\"score\":9},{\"criteriaId\":\"cmpdlh9x9003gmdsa2l63vylh\",\"score\":10}]",
+      "finalScore": "9.4",
+      "feedback": "Phần mô phỏng tập lệnh MIPS chạy rất tốt, lập trình mạch Logisim tối ưu và sáng tạo.",
+      "isApproved": true,
+      "approvedById": "cmpdlgndl0002mdsajghsxqwf",
+      "version": 1,
+      "createdAt": "2026-05-20T05:01:50.892Z",
+      "updatedAt": "2026-05-20T05:01:50.892Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "cmpdlhe0b0049mdsatvcoqmih",
+      "submissionId": "cmpdlhaym003imdsabg2ekjj7",
+      "userId": "cmpdlgnrt0004mdsaimp76mt8",
+      "content": "Nhóm phân chia công việc rõ ràng, phần demo hoạt động rất tốt.",
+      "isHidden": false,
+      "createdAt": "2026-05-20T05:01:52.043Z"
+    },
+    {
+      "id": "cmpdlhe0b004amdsayf1z3a18",
+      "submissionId": "cmpdlhaym003imdsabg2ekjj7",
+      "userId": "cmpdlgx9f001lmdsa2nbonp4q",
+      "content": "Dạ chúng em xin cảm ơn những nhận xét quý giá của thầy ạ!",
+      "isHidden": false,
+      "createdAt": "2026-05-20T05:01:52.043Z"
+    },
+    {
+      "id": "cmpdlhe0b004bmdsa0xs8zuv6",
+      "submissionId": "cmpdlhc20003smdsa0wjb53bi",
+      "userId": "cmpdlgo5o0006mdsa0zq59quj",
+      "content": "Sơ đồ tuần tự vẽ sai ký pháp Actor và Boundary. Hãy sửa lại rồi gửi yêu cầu nộp lại cho tôi duyệt.",
+      "isHidden": false,
+      "createdAt": "2026-05-20T05:01:52.043Z"
+    }
+  ],
+  "systemConfigs": [
+    {
+      "id": "cmpdlheg6004fmdsag5ger70v",
+      "key": "MAX_FILE_SIZE_MB",
+      "value": "50",
+      "description": "Dung lượng tối đa được phép upload (MB)"
+    },
+    {
+      "id": "cmpdlheg6004gmdsa4zgbespg",
+      "key": "ALLOWED_FILE_EXTENSIONS",
+      "value": "pdf,docx,zip,rar",
+      "description": "Các định dạng tệp báo cáo được chấp nhận"
+    },
+    {
+      "id": "cmpdlheg6004hmdsad6391gqx",
+      "key": "DUPLICATE_THRESHOLD_PERCENT",
+      "value": "30",
+      "description": "Ngưỡng trùng lặp tối đa được phép cảnh báo (%)"
+    },
+    {
+      "id": "cmpdlheg6004imdsathapglly",
+      "key": "SEMESTER_ACTIVE",
+      "value": "HK2-2025-2026",
+      "description": "Học kỳ mở hoạt động hiện tại của hệ thống"
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "cmpdlhenz004jmdsa4rugxq9f",
+      "userId": "cmpdlgmz20000mdsarsnndkwj",
+      "action": "SEVER_START",
+      "description": "Hệ thống được khởi động và cấu hình tham số.",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-05-20T05:01:52.895Z"
+    },
+    {
+      "id": "cmpdlhenz004kmdsao1qqrfl2",
+      "userId": "cmpdlgndl0002mdsajghsxqwf",
+      "action": "ACADEMIC_ASSIGN",
+      "description": "Phân công giảng viên PGS.TS Nguyễn Văn A phụ trách lớp SE301_L01.",
+      "ipAddress": "192.168.1.15",
+      "createdAt": "2026-05-20T05:01:52.895Z"
+    }
+  ]
+}

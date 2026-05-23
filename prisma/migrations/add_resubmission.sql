@@ -1,0 +1,18 @@
+CREATE TABLE "YeuCauNopLai" (
+    "MaYeuCau" TEXT NOT NULL,
+    "MaBaoCao" TEXT NOT NULL,
+    "MaSinhVien" TEXT NOT NULL,
+    "LyDo" TEXT NOT NULL,
+    "TrangThai" TEXT NOT NULL DEFAULT 'CHO_XU_LY',
+    "ThoiGianGui" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "NguoiDuyet" TEXT,
+    "GhiChuPhanHoi" TEXT,
+
+    CONSTRAINT "YeuCauNopLai_pkey" PRIMARY KEY ("MaYeuCau")
+);
+
+ALTER TABLE "YeuCauNopLai" ADD CONSTRAINT "YeuCauNopLai_MaBaoCao_fkey" FOREIGN KEY ("MaBaoCao") REFERENCES "BaoCao"("BaoCaoID") ON DELETE CASCADE ON UPDATE CASCADE;
+
+ALTER TABLE "YeuCauNopLai" ADD CONSTRAINT "YeuCauNopLai_MaSinhVien_fkey" FOREIGN KEY ("MaSinhVien") REFERENCES "SinhVien"("SinhVienID") ON DELETE CASCADE ON UPDATE CASCADE;
+
+ALTER TABLE "YeuCauNopLai" ADD CONSTRAINT "YeuCauNopLai_NguoiDuyet_fkey" FOREIGN KEY ("NguoiDuyet") REFERENCES "GiangVien"("GiangVienID") ON DELETE SET NULL ON UPDATE CASCADE;
