@@ -342,6 +342,9 @@ export class SubmissionRepository {
             teacher: {
               include: { user: { select: { fullName: true } } },
             },
+            rubric: {
+              include: { criteria: true },
+            },
           },
         },
       },
